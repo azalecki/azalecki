@@ -1,0 +1,15 @@
+---
+title: "Do I think GIS is a science"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - Blog
+tags:
+  - GIS
+  - science
+---
+
+I think for the most part my personal experience using GIS cannot be considered purely “scientific”. I’ve predominantly used GIS technology as a tool to analyze data and then make visualizations of that data. So in a way my application of GIS was limited by the kind of data that I put into it. Without it it would be like a monitor without a computer. Satisfied with it I guess I never considered GIS as anything more. That being said, just because I haven’t used it that way doesn’t mean that I don’t think Geographic Information Systems can’t be science. People that aren't ask questions about how geographic information systems work and how to better them. They will hypothesize and experiment for the sake of technological advancement. That is science and it would be cool to be one of those people. Also, there are scientific elements to GIS which if pulled out and examined further can be considered a science. For example, the creation and application of map projections to me is a science. It's basically just geometry and mathematics.
+
+What interested me was the readings' discussions on the relationship between GIS and corporations. In my own experiences using software like QGIS or ArcGIS, I have felt limited by the tools available to me and my understanding of it as a “single technology.” Without that kind of understanding I wonder what GIS would look like not bound by a singular program or version. On the one hand, teaching geographic concepts with a platform like QGIS makes sense because it’s relatively straightforward. On the other hand, I feel like all I can achieve with this approach is data entry and analysis. I think it would be great the think about other ways GIS would look like with new tools and applications. 
+
+Oh, also! You can't take the geographic out of GIS. Sorry. 
