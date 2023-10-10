@@ -1,6 +1,6 @@
 ---
 title: "Do I think GIS is a science"
-date: 2019-04-18T15:34:30-04:00
+date: 2023-10-18T15:34:30-04:00
 categories:
   - Blog
 tags:
@@ -19,5 +19,6 @@ What interested me was the readings' discussions on the relationship between GIS
 With this considered, this attachment between the market and GIS is problematic for someone who wants to take GIS further. I have often felt limited by the tools available to me with contentional platforms like QGIS, ArcGIS, ArcMaps, etc. Without that kind of understanding I wonder what GIS would look like not bound by a singular program or version. On the one hand, teaching geographic concepts with a platform like QGIS makes sense because it’s relatively straightforward. On the other hand, I feel like all I can achieve with this approach is data entry and analysis. I think it would be great the think about other ways GIS would look like with new tools and applications. 
 
 
-Oh, also! You can't take the geographic out of GIS. Sorry. 
+Oh, also! You can't take the geographic out of GIS.
+
 
