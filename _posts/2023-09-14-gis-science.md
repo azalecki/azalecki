@@ -1,6 +1,5 @@
 ---
 title: "Do I think GIS is a science"
-date: 2023-10-18T15:34:30-04:00
 categories:
   - Blog
 tags:
