@@ -21,6 +21,7 @@ Another issue is the data and the instruments of analysis that are available to 
 
 This gets even more complicated when you consider that geographies vary. The physical and social landscape changes depending on whether you're looking at rural Illinois or bustling Budapest. We can be extra careful while handling data, observe the results at different scales, and use statistics to try to calculate the precision of our estimates. Being aware of the limitations and clearly explaining our rationale for certain methods are steps I can take towards a more certain use of GIS. Offering a full-proof plan to avoiding uncertainty in GIS is unrealistic but being transparent about the limitations of the tools we are using isn't.
 
-References 
+References
+ 
 Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley.
  
