@@ -13,5 +13,3 @@ For our first assignment in Open GIScience, as a class, we worked on contributin
 I still think there is a lot of work to be done to make this study better. One element that I wanted to study but couldn’t figure out was how to test for independence. Clusters were grouped up into states and Chakraborty assumes that there is a possible correlation within clusters(states) but not between clusters. I was thinking about certain metropolitan areas that cross over state boundaries and how there could be a possibility that those counties might exhibit correlations between clusters. I encourage anybody reading this to also consider this if they were interested in reproducing this study. 
 
 You can access the report [here](https://azalecki.github.io/RPr-Chakraborty-2021)
-
-
