@@ -62,12 +62,6 @@ author:
   avatar : "assets/images/olaphoto.jpg"
   bio    : "Geography Student at Middlebury College"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/azalecki/"
@@ -76,9 +70,6 @@ author:
       url: "https://www.linkedin.com/in/alexandrazalecki"
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
