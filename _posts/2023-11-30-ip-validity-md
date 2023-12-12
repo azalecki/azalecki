@@ -3,8 +3,9 @@ title: "Dealing with Geographic Threats to Validity"
 categories:
   - Blog
 tags:
-  - GIS
-  - science
+  - project validity 
+  - shape effects 
+  - gis
 ---
 
-In one final discussion blog post, let’s revisit the implications of geographic threats to validity in the context of your selected replication or reproduction project. Which threats to validity matter for your study, and do you have any suggestions about how to deal with them? This discussion can be integrated into your project report!
+One of the most significant threats to validity that I can think of regarding my independent project is the idea of edge/shape effects when creating polygons to represent library service/catchment areas. Visualizing catchment areas for libraries is my first objective because, unlike primary schools that have definite attendance boundaries, libraries do not have proper "service areas." In the past, Thiessen/Voronoi polygons have been used to map catchment or service areas by proximity to points. GIS tools that generate Thiessen polygons draw shapes around a layer of point data where every location within one shape is nearer to its center point than all other points in the layer. These proximal regions assume that people are more likely to visit the library closest to them and as a result library services should reflect their local constituents. I recognize that this method has its flaws because this is not always the case. Some people may frequent libraries outside of their residential neighborhood for a variety of reasons and there is no way of accurately tracking that. The other option would be to draw buffers around library points like in the method we saw in the Kang et al. (year) study or calculate a network analysis. Thiessen polygons are, however, the simpler and computationally less intense option to a full-on network analysis. Although they might seem arbitrary I have attempted to improve the validity by including a population-weighted aggregation to more accurately estimate the neighborhood characteristics of the library service areas. 
