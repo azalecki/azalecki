@@ -6,6 +6,9 @@ title: "About"
 Hello! Witam! 
 
 My name is Ola. I make maps. 
+![about me image](/assets/images/aboutme_img.jpg)
+
+
 
 I am a senior studying Geography and Spanish at Middlebury College. 
  
@@ -15,7 +18,8 @@ I find a lot of joy in creating, being challenged, and hands on projects where I
 
 When I'm not staring at the computer screen you can find me taking photos, reading crime fiction and pretending that I can bake.
 
-Please feel free to contact me. 
+Please feel free to contact me.
+
 
 Email
 aezalecki@gmail.com
