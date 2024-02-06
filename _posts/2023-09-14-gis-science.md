@@ -1,7 +1,7 @@
 ---
 title: "Is GIS a tool or a science?"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - GIS discourse
   - GIS science

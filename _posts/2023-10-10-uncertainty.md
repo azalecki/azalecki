@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Uncertainty in GIS"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - GIS
   - uncertainty

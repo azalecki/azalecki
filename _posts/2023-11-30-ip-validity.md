@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Geographic Threats to Validity"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - project validity 
   - shape effects 

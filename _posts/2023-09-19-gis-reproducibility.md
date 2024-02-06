@@ -1,7 +1,7 @@
 ---
 title: "GIS and the Reproducibility Crisis"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - open source GIS
   - reproducibility 

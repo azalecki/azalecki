@@ -1,7 +1,7 @@
 ---
 title: "Chakraborty(2021) Reproduction"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - GIS reproduction
 ---

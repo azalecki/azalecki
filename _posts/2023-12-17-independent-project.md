@@ -1,7 +1,7 @@
 ---
 title: "Reproducing Original QGIS Workflow in R"
 categories:
-  - Blog
+  - GIScience Blog
 tags:
   - gis
 ---
