@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alexandra "Ola" Zalecki"
+  name   : "Alexandra (Ola) Zalecki"
   avatar : "assets/images/olaphoto.jpg"
   bio    : "Amateur GIScientist and Cartographer"
   links:
