@@ -25,6 +25,6 @@ The study used publicly available retail sales tax, E911 address and traffic dat
 
 I presented my findings at the Middlebury College Spring Student Symposium later that year. 
 
-![grid maps](/assets/images/ola_symposium.jpg)
+![ola symposium](/assets/images/ola_symposium.jpg)
 
 
