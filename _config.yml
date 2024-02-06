@@ -48,6 +48,20 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -60,7 +74,7 @@ plugins:
 author:
   name   : "Alexandra Ola Zalecki"
   avatar : "assets/images/olaphoto.jpg"
-  bio    : "Geography Student at Middlebury College"
+  bio    : "Geography Student and Amateur Cartographer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
