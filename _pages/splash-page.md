@@ -1,10 +1,10 @@
 title: "Splash Page"
 layout: splash
-permalink: /main/
+permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/lse_map_excerpt
+  overlay_image: /assets/images/lse_map_excerpt.jpg
   actions:
     - label: "View Work"
       url: "https://azalecki.github.io/gallery/"
