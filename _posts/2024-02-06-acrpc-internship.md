@@ -7,7 +7,7 @@ tags:
   - Mapping
 ---
 
-During my winter semester of 2022 I worked with the Addison County Regional Planning Commission. The ACRPC overssess planning and community development in the Addison region of Vermont. During the first week while my supervisor, Andrew, and I brainstormed a possible project for me I focused on drafting new ways to map population density of towns in the region. Understanding local populations metrics is critical for allocating time, energy and funding towards future development like housing projects. 
+During my winter semester of 2022 I worked with the Addison County Regional Planning Commission. The ACRPC oversees planning and community development in the Addison region of Vermont. During the first week while my supervisor, Andrew, and I brainstormed a possible project for me I focused on drafting new ways to map population density of towns in the region. Understanding local populations metrics is critical for allocating time, energy and funding towards future development like housing projects. 
  
 Mapping population density is usually done using administrative boundaries to make chloropleth maps.  If I was working on a different scale like a large metropolitan area or at the state level it would suffice. However, due to the rural nature of the Addison region, this mapping method is not as effective. Instead, mapping needs to be specifically location-based in order to avoid generalizations. 
 
