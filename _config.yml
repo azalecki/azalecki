@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Alexandra (Ola) Zalecki"
   avatar : "assets/images/olaphoto.jpg"
-  bio    : "Aspiring GIScientist and Cartographer!"
+  bio    : "Aspiring GIScientist and Cartographer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
