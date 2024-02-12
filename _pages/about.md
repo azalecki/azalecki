@@ -13,7 +13,7 @@ I was born and raised 900 miles west of Vermont in Chicago's northwest side. Bec
  
 I find a lot of joy in creating and seek out opportunities that challenge me as learner. I naturally gravitate towards hands-on projects where I am given the space to think creatively and critically. 
 
-When I'm not staring at my computer screen you can find me baking, reading crime fiction and pretending that I'm a photographer.
+When I'm not staring at my computer screen you can find me baking, reading crime fiction and taking photos of people. 
 
 ![about me image](/assets/images/aboutme_img.jpg)
 
