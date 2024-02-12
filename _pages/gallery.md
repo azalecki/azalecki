@@ -7,16 +7,14 @@ entries_layout: grid
 classes: wide
 ---
 
-gallery:
-  - url: \assets\images\grid_popdens.png
-    image_path: \assets\images\grid_popdens.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+<div class="gallery">
+
+![Image 1](images/image1.jpg)
+![Image 2](images/image2.jpg)
+
+
+![Heat Map](/assets/images/heatmap_popdens.png)
+![Grid Map](/assets/images/grid_popdens.png)
+![Coal Map](/assets/images/zalecki_finalpng.png)
+
+</div>
